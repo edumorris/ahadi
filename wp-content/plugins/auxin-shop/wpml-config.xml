@@ -1,0 +1,10 @@
+<wpml-config>
+  <admin-texts>
+    <key name="phlox_theme_options">
+      <key name="product_single_sidebar_position"/>
+      <key name="product_index_sidebar_position"/>
+      <key name="product_category_sidebar_position"/>
+      <key name="product_related_posts_label"/>
+    </key>
+  </admin-texts>
+</wpml-config>
